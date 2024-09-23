@@ -1,0 +1,52 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "firstname": "Adam",
+      "lastname": "Nowak",
+      "salary": 25000,
+      "status": "asdssdds33434",
+      "phonenumber": 345345345,
+      "birthdate": "1996-04-04T00:00:00.000Z",
+      "address": "Francuska 22",
+      "postalcode": "44333",
+      "city": "Kraków"
+    },
+    {
+      "id": "3",
+      "firstname": "Adam",
+      "lastname": "Nowak",
+      "phonenumber": 678678678,
+      "birthdate": "2024-11-19T00:00:00.000Z",
+      "salary": 24000,
+      "status": "FIRED",
+      "address": "Francuska 22",
+      "city": "Warszawa",
+      "postalcode": "44333"
+    },
+    {
+      "id": "f45d",
+      "firstname": "John",
+      "lastname": "Doe",
+      "birthdate": "1950-02-12",
+      "phonenumber": "123123123",
+      "address": "Woje",
+      "city": "Warszawa",
+      "postalcode": "10-123",
+      "status": "HIRED",
+      "salary": "10000"
+    },
+    {
+      "id": "fe3c",
+      "firstname": "Mariusz",
+      "lastname": "Myszko",
+      "birthdate": "1980-12-12",
+      "phonenumber": "225663227",
+      "address": "Warszawska",
+      "city": "Kraków",
+      "postalcode": "12123",
+      "status": "HIRED",
+      "salary": "3200"
+    }
+  ]
+}
